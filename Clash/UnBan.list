@@ -2,6 +2,7 @@
 
 # CloudFlare
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare-cn.com
 
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
