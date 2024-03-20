@@ -1,6 +1,10 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
-#终点站
+# pikpak
+DOMAIN-SUFFIX,pikpak.com
+DOMAIN-SUFFIX,mypikpak.com
+
+# 终点站
 DOMAIN-SUFFIX,emby.wtf
 
 # CloudFlare
