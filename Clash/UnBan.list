@@ -1,5 +1,8 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
+#终点站
+DOMAIN-SUFFIX,emby.wtf
+
 # CloudFlare
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare-cn.com
